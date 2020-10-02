@@ -1,4 +1,4 @@
-# numpy-unit
+# Python(numpy-unit)
 
 [![Build Status](https://travis-ci.org/politinsa/numpy-unit.svg?branch=master)](https://travis-ci.org/politinsa/numpy-unit)
 [![Documentation Status](https://readthedocs.org/projects/numpy-unit/badge/?version=latest)](https://numpy-unit.readthedocs.io/en/latest/?badge=latest)
@@ -19,6 +19,7 @@ Because **any `ArrayUnit` is a numpy.ndarray**, classical ndarray methods work a
 ## Examples
 
 ```python
+>>> #importing numpy 
 >>> import numpy as np
 >>> from numpy_unit import Unit, ArrayUnit
 >>> 
